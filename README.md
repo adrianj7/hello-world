@@ -1,6 +1,7 @@
 # hello-world - 1st level heading
 
 ## this is a heading - 2nd level
+tejst do drugiego rozdziału
 ### heading - 3rd level
 
 1. one
@@ -13,7 +14,7 @@
 
 **bold** text
 *italic* text
-
+------------------------------------
 for more information please visit [podmedics](http://podemdics.heroku.com "the new site")
 
 Hi Ppl!
