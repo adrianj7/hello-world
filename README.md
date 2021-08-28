@@ -1,7 +1,8 @@
 # hello-world - 1st level heading
 
 ## this is a heading - 2nd level
-tejst do drugiego rozdziału
+tekst do drugiego rozdziału
+
 ### heading - 3rd level
 
 1. one
