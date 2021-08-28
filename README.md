@@ -1,6 +1,6 @@
 # hello-world
 
-#Tittle
+# Tittle
 ## Bigger title
 
 Hi Ppl!
