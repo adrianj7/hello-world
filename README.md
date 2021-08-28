@@ -8,11 +8,12 @@
 
 - text
 - typing
-- jut one more
+- just one more
 
 **bold** text
 *italic* text
-
+-------------------------
+for more information please visit [podmedics](http://podemdics.heroku.com)
 
 Hi Ppl!
 
