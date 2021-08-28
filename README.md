@@ -17,7 +17,16 @@ tekst do drugiego rozdziału
 *italic* text
 ------------------------------------
 for more information please visit [podmedics](http://podemdics.heroku.com "the new site")
+------------------------------------
+And this will produce a flow chart:
 
+```mermaid
+graph LR
+A[Square Rect] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
+------------------------------------
 Hi Ppl!
 
 To jest pierwsza linijka tekstu o mnie.
