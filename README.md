@@ -13,7 +13,7 @@
 **bold** text
 *italic* text
 -------------------------
-for more information please visit [podmedics](http://podemdics.heroku.com)
+for more information please visit [podmedics](http://podemdics.heroku.com "the new site")
 
 Hi Ppl!
 
