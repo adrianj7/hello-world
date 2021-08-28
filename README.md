@@ -1,7 +1,18 @@
 # hello-world
 
-# Tittle
-## Bigger title
+## this is a heading
+
+1. one
+2. two
+3. three
+
+- text
+- typing
+- jut one more
+
+**bold** text
+*italic* text
+
 
 Hi Ppl!
 
