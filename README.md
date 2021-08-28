@@ -1,6 +1,7 @@
-# hello-world
+# hello-world - 1st level heading
 
-## this is a heading
+## this is a heading - 2nd level
+### heading - 3rd level
 
 1. one
 2. two
